@@ -1,0 +1,12 @@
+# gitignore
+
+.env
+project1_env/
+notebooks/
+data/
+resources/pictures/
+slides/tableau public/
+requirements-dev.in
+requirements.in
+.DS_Store
+src/
