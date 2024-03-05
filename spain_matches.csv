@@ -1,0 +1,60 @@
+year,datetime,stage,stadium,city,home team name,home team goals,away team goals,away team name,win conditions,attendance,half-time home goals,half-time away goals,referee,assistant 1,assistant 2,roundid,matchid,home team initials,away team initials
+1934,27 May 1934 - 16:30 ,Preliminary round,Luigi Ferraris,Genoa ,Spain,3,1,Brazil, ,21000,3,0,BIRLEM Alfred (GER),CARMINATI Ettore (ITA),IVANCSICS Mihaly (HUN),204,1111,ESP,BRA
+1950,25 Jun 1950 - 15:00 ,Group 2,Durival de Brito,Curitiba ,Spain,3,1,USA, ,9511,0,1,VIANA Mario (BRA),DA COSTA VIEIRA Jose (POR),DE LA SALLE Charles (FRA),208,1208,ESP,USA
+1950,29 Jun 1950 - 15:00 ,Group 2,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Spain,2,0,Chile, ,19790,2,0,MALCHER Alberto (BRA),MARINO Esteban (URU),ALVAREZ Alfredo (BOL),208,1193,ESP,CHI
+1950,02 Jul 1950 - 15:00 ,Group 2,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Spain,1,0,England, ,74462,0,0,GALEATI Giovanni (ITA),LUTZ Jean (SUI),DATTILO Generoso (ITA),208,1199,ESP,ENG
+1962,03 Jun 1962 - 15:00 ,Group 3,Estadio Sausalito,Vina Del Mar ,Spain,1,0,Mexico, ,11875,0,0,TESANIC Branko (YUG),VICUNA Claudio (CHI),VAN ROSBERG Walter Jose (CUW),231,1497,ESP,MEX
+1966,15 Jul 1966 - 19:30 ,Group 2,Hillsborough,Sheffield ,Spain,2,1,Switzerland, ,32028,0,1,BAKHRAMOV Tofik (URS),ZSOLT Istvan (HUN),PHILLIPS Hugh (SCO),238,1641,ESP,SUI
+1978,11 Jun 1978 - 13:45 ,Group 3,Jose Amalfitani,Buenos Aires ,Spain,1,0,Sweden, ,42132,0,0,BIWERSI Ferdinand (GER),ITHURRALDE Arturo Andres (ARG),PROKOP Adolf (GDR),278,2337,ESP,SWE
+1982,16 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Spain,1,1,Honduras, ,49562,0,1,ITHURRALDE Arturo Andres (ARG),DOTCHEV Bogdan (BUL),BARRANCOS Luis (BOL),293,901,ESP,HON
+1982,20 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Spain,2,1,Yugoslavia, ,48000,1,1,LUND-SORENSEN Henning (DEN),GARRIDO Antonio (POR),ITHURRALDE Arturo Andres (ARG),293,903,ESP,YUG
+1982,05 Jul 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Spain,0,0,England, ,75000,0,0,PONNET Alexis (BEL),VAUTROT Michel (FRA),LACARNE Belaid (ALG),294,877,ESP,ENG
+1986,01 Jun 1986 - 12:00 ,Group D,Jalisco,Guadalajara ,Spain,0,1,Brazil, ,35748,0,0,BAMBRIDGE Christopher (AUS),SOCHA David (USA),KEIZER Jan (NED),308,439,ESP,BRA
+1986,22 Jun 1986 - 16:00 ,Quarter-finals,Cuauhtemoc,Puebla ,Spain,1,1,Belgium,Belgium win on penalties (4 - 5) ,45000,0,0,KIRSCHEN Siegfried (GER),CODESAL MENDEZ Edgardo (MEX),BRUMMEIER Horst (AUT),714,421,ESP,BEL
+1990,26 Jun 1990 - 17:00 ,Round of 16,Marc Antonio Bentegodi,Verona ,Spain,1,2,Yugoslavia,Yugoslavia win after extra time ,35500,0,0,SCHMIDHUBER Aron (GER),SNODDY Alan (NIR),LISTKIEWICZ Michal (POL),323,181,ESP,YUG
+1994,17 Jun 1994 - 19:30 ,Group C,Cotton Bowl,Dallas ,Spain,2,2,Korea Republic, ,56247,0,0,MIKKELSEN Peter (DEN),CHRISTENSEN Carl-Johan Meyer (DEN),PEARSON Roy (ENG),337,3050,ESP,KOR
+1994,02 Jul 1994 - 16:30 ,Round of 16,RFK Stadium,Washington Dc ,Spain,3,0,Switzerland, ,53121,1,0,VAN DER ENDE Mario (NED),DOLSTRA Jan (NED),MARTON Sandor (HUN),338,3086,ESP,SUI
+1998,13 Jun 1998 - 14:30 ,Group D,La Beaujoire,Nantes ,Spain,2,3,Nigeria, ,35500,1,1,BAHARMAST Esse (USA),TORRES ZUNIGA Luis (CRC),DUPANOV Yuri (BLR),1014,8731,ESP,NGA
+1998,19 Jun 1998 - 21:00 ,Group D,Stade Geoffroy Guichard,Saint-Etienne ,Spain,0,0,Paraguay, ,30600,0,0,McLEOD Ian (RSA),SOLDATOS Aristidis Chris (RSA),POWELL Owen (JAM),1014,8748,ESP,PAR
+1998,24 Jun 1998 - 21:00 ,Group D,Stade Felix Bollaert,Lens ,Spain,6,1,Bulgaria, ,38100,2,0,VAN DER ENDE Mario (NED),GRIGORESCU Nicolae (ROU),ROSSI Claudio (ARG),1014,8761,ESP,BUL
+2002,02 Jun 2002 - 20:30 ,Group B,Gwangju World Cup Stadium,Gwangju ,Spain,3,1,Slovenia, ,28598,1,0,GUEZZAZ Mohammed (MAR),TOMUSANGE Ali (UGA),BEREUTER Egon (AUT),43950100,43950008,ESP,SVN
+2002,07 June 2002 - 18:00 ,Group B,Jeonju World Cup Stadium,Jeonju ,Spain,3,1,Paraguay, ,24000,0,1,EL GHANDOUR Gamal (EGY),FARAG Wagih (EGY),MUDZAMIRI Brighton (ZIM),43950100,43950022,ESP,PAR
+2002,16 Jun 2002 - 20:30 ,Round of 16,Suwon World Cup Stadium,Suwon ,Spain,1,1,"rn"">Republic of Ireland",Spain win on penalties (3 - 2) ,38926,0,0,FRISK Anders (SWE),LINDBERG Leif (SWE),SRAMKA Igor (SVK),43950200,43950052,ESP,IRL
+2002,22 Jun 2002 - 15:30 ,Quarter-finals,Gwangju World Cup Stadium,Gwangju ,Spain,0,0,Korea Republic,Korea Republic win on penalties (3 - 5) ,42114,0,0,EL GHANDOUR Gamal (EGY),TOMUSANGE Ali (UGA),RAGOONATH Michael (TRI),43950300,43950059,ESP,KOR
+2006,14 Jun 2006 - 15:00 ,Group H,Zentralstadion,Leipzig ,Spain,4,0,Ukraine, ,43000,2,0,BUSACCA Massimo (SUI),BURAGINA Francesco (SUI),ARNET Matthias (SUI),97410100,97410015,ESP,UKR
+2006,19 Jun 2006 - 21:00 ,Group H,Gottlieb-Daimler-Stadion,Stuttgart ,Spain,3,1,Tunisia, ,52000,0,1,SIMON Carlos (BRA),TAVARES Aristeu (BRA),CORONA Ednilson (BRA),97410100,97410031,ESP,TUN
+2006,27 Jun 2006 - 21:00 ,Round of 16,"FIFA World Cup Stadium, Hanover",Hanover ,Spain,1,3,France, ,43000,1,1,ROSETTI Roberto (ITA),COPELLI Cristiano (ITA),STAGNOLI Alessandro (ITA),97410200,97410056,ESP,FRA
+2010,16 Jun 2010 - 16:00 ,Group H,Durban Stadium,Durban ,Spain,0,1,Switzerland, ,62453,0,0,WEBB Howard (ENG),Darren CANN (ENG),MULLARKEY Michael (ENG),249722,300111112,ESP,SUI
+2010,21 Jun 2010 - 20:30 ,Group H,Ellis Park Stadium,Johannesburg ,Spain,2,0,Honduras, ,54386,1,0,NISHIMURA Yuichi (JPN),SAGARA Toru (JPN),JEONG Hae Sang (KOR),249722,300061494,ESP,HON
+2010,29 Jun 2010 - 20:30 ,Round of 16,Cape Town Stadium,Cape Town ,Spain,1,0,Portugal, ,62955,0,0,BALDASSI Hector (ARG),CASAS Ricardo (ARG),MAIDANA Hernan (ARG),249717,300061498,ESP,POR
+2014,13 Jun 2014 - 16:00 ,Group B,Arena Fonte Nova,Salvador ,Spain,1,5,Netherlands, ,48173,1,1,Nicola RIZZOLI (ITA),Renato FAVERANI (ITA),Andrea STEFANI (ITA),255931,300186510,ESP,NED
+2014,18 Jun 2014 - 16:00 ,Group B,Estadio do Maracana,Rio De Janeiro ,Spain,0,2,Chile, ,74101,0,2,GEIGER Mark (USA),HURD Sean (USA),FLETCHER Joe (CAN),255931,300186498,ESP,CHI
+1934,31 May 1934 - 16:30 ,Quarter-finals,Giovanni Berta,Florence ,Italy,1,1,Spain, ,35000,0,0,BAERT Louis (BEL),ZENISEK Bohumil (TCH),IVANCSICS Mihaly (HUN),418,1122,ITA,ESP
+1934,01 Jun 1934 - 16:30 ,Quarter-finals,Giovanni Berta,Florence ,Italy,1,0,Spain, ,43000,1,0,MERCET Rene (SUI),IVANCSICS Mihaly (HUN),ZENISEK Bohumil (TCH),418,1123,ITA,ESP
+1950,09 Jul 1950 - 15:00 ,Group 6,Pacaembu,Sao Paulo ,Uruguay,2,2,Spain, ,44802,1,2,GRIFFITHS Benjamin (WAL),DATTILO Generoso (ITA),ALVAREZ Alfredo (BOL),209,1207,URU,ESP
+1950,13 Jul 1950 - 15:00 ,Group 6,Maracan� - Est�dio Jornalista M�rio Filho,Rio De Janeiro ,Brazil,6,1,Spain, ,152772,3,0,LEAFE Reginald (ENG),MITCHELL George (SCO),DA COSTA VIEIRA Jose (POR),209,1186,BRA,ESP
+1950,16 Jul 1950 - 15:00 ,Group 6,Pacaembu,Sao Paulo ,Sweden,3,1,Spain, ,11227,2,0,VAN DER MEER Karel (NED),LUTZ Jean (SUI),GARCIA Prudencio (USA),209,1206,SWE,ESP
+1962,31 May 1962 - 15:00 ,Group 3,Estadio Sausalito,Vina Del Mar ,Czechoslovakia,1,0,Spain, ,12700,0,0,STEINER Carl (AUT),MARINO Esteban (URU),VAN ROSBERG Walter Jose (CUW),231,1498,TCH,ESP
+1962,06 Jun 1962 - 15:00 ,Group 3,Estadio Sausalito,Vina Del Mar ,Brazil,2,1,Spain, ,18715,0,1,BUSTAMANTE Sergio (CHI),MARINO Esteban (URU),SUNDHEIM Jose Antonio (COL),231,1460,BRA,ESP
+1966,13 Jul 1966 - 19:30 ,Group 2,Villa Park,Birmingham ,Argentina,2,1,Spain, ,42738,0,0,RUMENTCHEV Dimitar (BUL),YAMASAKI MALDONADO Arturo (MEX),ZECEVIC Konstantin (YUG),238,1578,ARG,ESP
+1966,20 Jul 1966 - 19:30 ,Group 2,Villa Park,Birmingham ,Germany FR,2,1,Spain, ,42187,1,1,MARQUES Armando (BRA),VICUNA Claudio (CHI),CHOI Duk Ryong (PRK),238,1637,FRG,ESP
+1978,03 Jun 1978 - 13:45 ,Group 3,Jose Amalfitani,Buenos Aires ,Austria,2,1,Spain, ,40841,1,1,PALOTAI Karoly (HUN),BARRETO RUIZ Ramon (URU),IVANOV Anatoly (URS),278,2216,AUT,ESP
+1978,07 Jun 1978 - 13:45 ,Group 3,Estadio Jos� Mar�a Minella,Mar Del Plata ,Brazil,0,0,Spain, ,34771,0,0,GONELLA Sergio (ITA),KLEIN Abraham (ISR),ITHURRALDE Arturo Andres (ARG),278,2246,BRA,ESP
+1982,25 Jun 1982 - 21:00 ,Group 5,Luis Casanova,Valencia ,Northern Ireland,1,0,Spain, ,49562,0,0,ORTIZ Hector (PAR),LABO REVOREDO Enrique (PER),PONNET Alexis (BEL),293,902,NIR,ESP
+1982,02 Jul 1982 - 21:00 ,Group 2,Santiago Bernabeu,Madrid ,Germany FR,2,1,Spain, ,90089,0,0,CASARIN Paolo (ITA),WOEHRER Franz (AUT),PALOTAI Karoly (HUN),294,900,FRG,ESP
+1986,07 Jun 1986 - 12:00 ,Group D,Tres de Marzo,Guadalajara ,Northern Ireland,1,2,Spain, ,28000,0,2,BRUMMEIER Horst (AUT),AGNOLIN Luigi (ITA),NEMETH Lajos (HUN),308,551,NIR,ESP
+1986,12 Jun 1986 - 12:00 ,Group D,Tecnologico,Monterrey ,Algeria,0,3,Spain, ,23980,0,1,TAKADA Shizuo (JPN),PICON-ACKONG Edwin (MRI),ESPOSITO Carlos (ARG),308,378,ALG,ESP
+1986,18 Jun 1986 - 16:00 ,Round of 16,Estadio Corregidora,Queretaro ,Denmark,1,5,Spain, ,38500,1,1,KEIZER Jan (NED),BENNACEUR Ali (TUN),DOTCHEV Bogdan (BUL),309,511,DEN,ESP
+1990,13 Jun 1990 - 17:00 ,Group E,Dacia Arena,Udine ,Uruguay,0,0,Spain, ,35713,0,0,KOHL Helmut (AUT),SPIRIN Alexey (RUS),KIRSCHEN Siegfried (GER),322,180,URU,ESP
+1990,17 Jun 1990 - 21:00 ,Group E,Dacia Arena,Udine ,Korea Republic,1,3,Spain, ,32733,1,1,JACOME GUERRERO Elias V. (ECU),MAGNI Pierluigi (ITA),LOUSTAU Juan (ARG),322,175,KOR,ESP
+1990,21 Jun 1990 - 17:00 ,Group E,Marc Antonio Bentegodi,Verona ,Belgium,1,2,Spain, ,35950,1,2,LOUSTAU Juan (ARG),MACIEL Carlos (PAR),MAURO Vincent (USA),322,56,BEL,ESP
+1994,21 Jun 1994 - 16:00 ,Group C,Soldier Field,Chicago ,Germany,1,1,Spain, ,63113,0,1,FILIPPI Ernesto (URU),ZARATE Venancio (PAR),TAIBI Ernesto (ARG),337,3060,GER,ESP
+1994,27 Jun 1994 - 16:00 ,Group C,Soldier Field,Chicago ,Bolivia,1,3,Spain, ,63089,0,1,BADILLA Rodrigo (CRC),CALIX GARCIA Raimundo (HON),AL GHATTAN Yousif Abdulla (BAH),337,3075,BOL,ESP
+1994,09 Jul 1994 - 12:00 ,Quarter-finals,Foxboro Stadium,Boston ,Italy,2,1,Spain, ,53400,1,0,PUHL Sandor (HUN),DUNSTER Gordon (AUS),MATTHYS Luc (BEL),796,3097,ITA,ESP
+2002,12 Jun 2002 - 20:30 ,Group B,Daejeon World Cup Stadium,Daejeon ,South Africa,2,3,Spain, ,31024,1,2,MANE Saad (KUW),RATTALINO Jorge (ARG),HASSOUNEH Awni (JOR),43950100,43950039,RSA,ESP
+2006,23 Jun 2006 - 16:00 ,Group H,Fritz-Walter-Stadion,Kaiserslautern ,Saudi Arabia,0,1,Spain, ,46000,0,1,CODJIA Coffi (BEN),NTAGUNGIRA Celestin (RWA),ADERODJOU Aboudou (BEN),97410100,97410047,KSA,ESP
+2010,25 Jun 2010 - 20:30 ,Group H,Loftus Versfeld Stadium,Tshwane/Pretoria ,Chile,1,2,Spain, ,41958,0,2,RODRIGUEZ Marco (MEX),CAMARGO Jose Luis (MEX),MORIN Alberto (MEX),249722,300061491,CHI,ESP
+2010,03 Jul 2010 - 20:30 ,Quarter-finals,Ellis Park Stadium,Johannesburg ,Paraguay,0,1,Spain, ,55359,0,0,BATRES Carlos (GUA),LEAL Leonel (CRC),PASTRANA Carlos (HON),249718,300061506,PAR,ESP
+2010,07 Jul 2010 - 20:30 ,Semi-finals,Durban Stadium,Durban ,Germany,0,1,Spain, ,60960,0,0,KASSAI Viktor (HUN),EROS Gabor (HUN),VAMOS Tibor (HUN),249719,300111114,GER,ESP
+2010,11 Jul 2010 - 20:30 ,Final,Soccer City Stadium,Johannesburg ,Netherlands,0,1,Spain,Spain win after extra time ,84490,0,0,WEBB Howard (ENG),Darren CANN (ENG),MULLARKEY Michael (ENG),249721,300061509,NED,ESP
+2014,23 Jun 2014 - 13:00 ,Group B,Arena da Baixada,Curitiba ,Australia,0,3,Spain, ,39375,0,1,SHUKRALLA Nawaf (BHR),TULEFAT Yaser (BHR),SALEH Ebrahim (BHR),255931,300186467,AUS,ESP
