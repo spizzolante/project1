@@ -1,11 +1,8 @@
 # gitignore
 
-.env
 project1_env/
-notebooks/
-data/
 resources/pictures/
-slides/tableau public/
+slides/tableau_public/
 requirements-dev.in
 requirements.in
 .DS_Store
